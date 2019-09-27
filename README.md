@@ -48,3 +48,17 @@ Calif.: Adobe Press, 1992)
 [21] Color management systems: Getting reliable color from start to finish, Adobe Systems, <http://www.adobe.com/PDFs/FaxYI/500301.pdf>.
 
 [22] Overview of color publishing, Adobe Systems, <http://www.adobe.com/PDFs/FaxYI/500302.pdf>. Despite appear- ances and title, this document is in greyscale, not color.
+
+Related Documents
+Berlin and Kay Theory, C.L. Hardin, Department of Philosophy, Syracuse University, Syracuse, NY, USA
+http://imbs.uci.edu/~kjameson/ECST/Hardin_BerlinKayTheory.pdf
+
+Berlin and Kay’s Theory of Color Universals and Linguistic Relativity: The Case of Arabic, Abdulrahman Saud Al-rasheed1, Norah S. Al-Mohimeed1, Ian R. L. Davies2  
+http://www.academicstar.us/UploadFile/Picture/2014-3/201432003913704.pdf
+
+Universality of Color Categorization1, Paul Kay, U.C. Berkeley (Linguistics), Stanford U. (Linguistics)
+https://www1.icsi.berkeley.edu/~kay/univ.col.cats.complt.pdf
+
+UniversalityandEvolution ofBasicColorTerms,BrentBerlinandPaulKay UniversityofCalifornia,Berkeley
+https://files.eric.ed.gov/fulltext/ED019655.pdf
+
