@@ -4,6 +4,7 @@ Frequently Asked Questions about Color
 http://poynton.ca/PDFs/ColorFAQ.pdf
 
 References
+
 [1] B. Berlin and P. Kay, Basic Color Terms (Berkeley, Calif.: U. of Calif. Press, 1969)
 
 [2] Publication CIE No 17.4, International Lighting Vocabulary (Vienna, Austria: Central Bureau of the Commission Internationale de L’Éclairage)
@@ -50,6 +51,7 @@ Calif.: Adobe Press, 1992)
 [22] Overview of color publishing, Adobe Systems, <http://www.adobe.com/PDFs/FaxYI/500302.pdf>. Despite appear- ances and title, this document is in greyscale, not color.
 
 Related Documents
+
 Berlin and Kay Theory, C.L. Hardin, Department of Philosophy, Syracuse University, Syracuse, NY, USA
 http://imbs.uci.edu/~kjameson/ECST/Hardin_BerlinKayTheory.pdf
 
@@ -59,6 +61,6 @@ http://www.academicstar.us/UploadFile/Picture/2014-3/201432003913704.pdf
 Universality of Color Categorization1, Paul Kay, U.C. Berkeley (Linguistics), Stanford U. (Linguistics)
 https://www1.icsi.berkeley.edu/~kay/univ.col.cats.complt.pdf
 
-UniversalityandEvolution ofBasicColorTerms,BrentBerlinandPaulKay UniversityofCalifornia,Berkeley
+Universality and Evolution of Basic Color Terms, Brent Berlin and Paul Kay, UniversityofCalifornia,Berkeley
 https://files.eric.ed.gov/fulltext/ED019655.pdf
 
